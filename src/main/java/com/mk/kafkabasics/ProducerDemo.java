@@ -1,4 +1,4 @@
-package com.epam.mk.kafkabasics;
+package com.mk.kafkabasics;
 
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerConfig;
